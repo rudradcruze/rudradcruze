@@ -1,5 +1,4 @@
-<img src="./header.gif" alt="Welcome" style="height: auto; width: 100%;"/>
-<img src="./headline.gif" alt="Francis Rudra D Cruze | Programmer" style="height: auto; width: 100%;  margin-bottom: 30px"/>
+<img src="./banner.gif" alt="Welcome Francis Rudra D Cruze | Programmer" style="height: auto; width: 100%;  margin-bottom: 30px"/>
 
 # 💫 About Me:
 
