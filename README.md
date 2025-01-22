@@ -1,6 +1,7 @@
 <div align="center">
     <img src="./banner.gif" alt="Welcome Francis Rudra D Cruze | Programmer" style="height: auto; width: 100%;  margin-bottom: 30px; text-align-center"/>
 </div>
+
 # 💫 About Me:
 
 Part-Time Research Assistant in Medical Image Processing and Machine Learning and AI & IoT Intern at Daffodil International University with expertise in developing AI-driven IoT solutions and research in bioinformatics, smart farming, and software engineering.
