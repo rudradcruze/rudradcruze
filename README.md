@@ -2,19 +2,17 @@
     <img src="./banner.gif" alt="Welcome Francis Rudra D Cruze | Programmer" style="height: auto; width: 100%;  margin-bottom: 30px; text-align-center"/>
 </div>
 
-# 💫 About Me:
+# 💫 About Me
 
 Part-Time Research Assistant in Medical Image Processing and Machine Learning and AI & IoT Intern at Daffodil International University with expertise in developing AI-driven IoT solutions and research in bioinformatics, smart farming, and software engineering.
 
-## 🌐 Socials:
+# 🌐 Socials
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rudradcruze) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rudradcruze) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rudradcruze) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@rudradcruze) [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:francisrudra@gmail.com)
 
-##
-
 # 💻 Tech Stack:
 
-### 👨‍💻 Programming languages
+## 👨‍💻 Programming languages
 
 <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aassembly"><img alt="MIPS Assembly" src="https://custom-icon-badges.herokuapp.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
@@ -36,7 +34,7 @@ Part-Time Research Assistant in Medical Image Processing and Machine Learning an
 </p>
  <br>
 
-### 🧰 Frameworks and libraries
+## 🧰 Frameworks and libraries
 
 <p>
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
@@ -51,7 +49,7 @@ Part-Time Research Assistant in Medical Image Processing and Machine Learning an
 <br>
  
  
-### 🗄️ Databases and cloud hosting
+## 🗄️ Databases and cloud hosting
 
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
@@ -63,7 +61,7 @@ Part-Time Research Assistant in Medical Image Processing and Machine Learning an
     <a href="#"><img alt="WordPress" src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34"></a>
 </p>
  
-### 💻 Software and tools
+## 💻 Software and tools
 
 <p>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
@@ -91,11 +89,11 @@ Part-Time Research Assistant in Medical Image Processing and Machine Learning an
 
 ![](https://github-profile-trophy.vercel.app/?username=rudradcruze&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=rudradcruze&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
