@@ -10,7 +10,7 @@ Part-Time Research Assistant in Medical Image Processing and Machine Learning an
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rudradcruze) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rudradcruze) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rudradcruze) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@rudradcruze) [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:francisrudra@gmail.com)
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 
 ## 👨‍💻 Programming languages
 
@@ -77,7 +77,7 @@ Part-Time Research Assistant in Medical Image Processing and Machine Learning an
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=rudradcruze&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
