@@ -2,7 +2,7 @@
   <img src="./banner.gif" alt="Welcome Francis Rudra D Cruze | Programmer" style="height: auto; width: 100%; margin: 0; padding: 0; text-align-center"/>
 </div>
 
-<p style="text-align: center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=F7F23D&center=true&vCenter=true&width=435&lines=AI+Software+Engineer;Researcher+%2F+Programmer;A+Quick+Learner" alt="Researcher / Programmer" /></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=F7F23D&center=true&vCenter=true&width=435&lines=AI+Software+Engineer;Researcher+%2F+Programmer;A+Quick+Learner" alt="Researcher / Programmer" /></p>
 
 <div align="center">
   <h3><b>👀 Profile Visitor Count 👀</b></h3>
