@@ -1,8 +1,8 @@
 <div align="center">
   <img src="./banner.gif" alt="Welcome Francis Rudra D Cruze | Programmer" style="height: auto; width: 100%; margin: 0; padding: 0; text-align-center"/>
-  <img style="width: 100%; height: auto; padding: 0;" alt="...." src="wave_up.svg" />
-  <br />
 </div>
+
+<p style="text-align: center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=F7F23D&center=true&vCenter=true&width=435&lines=AI+Software+Engineer;Researcher+%2F+Programmer;A+Quick+Learner" alt="Researcher / Programmer" /></p>
 
 <div align="center">
   <h3><b>👀 Profile Visitor Count 👀</b></h3>
@@ -42,33 +42,32 @@ Part-Time Research Assistant in Medical Image Processing and Machine Learning an
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asass"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 </p>
- <br>
+<br />
 
 ## 🧰 Frameworks and libraries
 
 <p>
-    <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-    <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white"></a>
-    <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=Keras&logoColor=white"></a>
-    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
-    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
+  <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
+  <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+  <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white"></a>
+  <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=Keras&logoColor=white"></a>
+  <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
+  <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
+  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+  <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
 </p>
-<br>
- 
- 
+<br />
+
 ## 🗄️ Databases and cloud hosting
 
 <p>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
-    <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-    <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
-    <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
-    <a href="#"><img alt="WordPress" src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34"></a>
+  <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+  <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
+  <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
+  <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
+  <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
+  <a href="#"><img alt="WordPress" src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34"></a>
 </p>
  
 ## 💻 Software and tools
@@ -87,24 +86,36 @@ Part-Time Research Assistant in Medical Image Processing and Machine Learning an
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-# 📊 GitHub Stats
+<br />
+
+# 📊 GitHub Stats & Contribution Graph
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rudradcruze&show_icons=true&theme=gotham" alt="rudradcruze" style="width:100%;" />
-
-<img align="center" style="margin-top: 2%; width:100%; max-width: 100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rudradcruze&theme=monokai" alt="rudradcruze" />
 
 <div style="display: flex; flex-direction: row; align-items: center; margin-top: 2%">
   <img src="https://github-contributor-stats.vercel.app/api?username=rudradcruze&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="rudradcruze" style="width: 49%; height: 70%;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudradcruze&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="rudradcruze" style="width: 49%; height: 100%;" />
 </div>
 
-## 🏆 GitHub Trophies
+<p align="center" style="margin-top: 2%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rudradcruze&theme=gotham" align="center" />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudradcruze&theme=gotham&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="100%" alt="activity graph">
+</p>
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px">
+</p>
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=rudradcruze" alt="rudradcruze" /></p>
 
-## ✍️ Random Dev Quote
+<br />
 
-<p align="center"><img style="width: auto; height: 200" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="rudradcruze" /></p>
+# ✍️ Random Dev Quote
+
+<p align="center"><img style="width: auto; height: auto" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="rudradcruze" /></p>
 
 <div align="center">
     <img height="120" alt="Thanks for visiting me" width="100%" src="thankyou.svg" />
