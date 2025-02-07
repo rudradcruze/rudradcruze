@@ -105,10 +105,6 @@ Part-Time Research Assistant in Medical Image Processing and Machine Learning an
 
 # 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px">
-</p>
-
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=rudradcruze" alt="rudradcruze" /></p>
 
 <br />
