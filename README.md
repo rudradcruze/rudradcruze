@@ -2,6 +2,14 @@
     <img src="./banner.gif" alt="Welcome Francis Rudra D Cruze | Programmer" style="height: auto; width: 100%;  margin-bottom: 30px; text-align-center"/>
 </div>
 
+<div align="center">
+  <h3><b>👀 Profile Visitor Count 👀</b></h3>
+</div>
+
+<p align="center"><img src="https://profile-counter.glitch.me/rudradcruze/count.svg" /></p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rudradcruze&label=Profile%20views&color=0e75b6&style=flat" alt="rudradcruze" /> </p>
+
 # 💫 About Me
 
 Part-Time Research Assistant in Medical Image Processing and Machine Learning and AI & IoT Intern at Daffodil International University with expertise in developing AI-driven IoT solutions and research in bioinformatics, smart farming, and software engineering.
@@ -79,24 +87,31 @@ Part-Time Research Assistant in Medical Image Processing and Machine Learning an
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=rudradcruze&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rudradcruze&show_icons=true&theme=gotham" alt="rudradcruze" style="width:100%;" />
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rudradcruze&theme=monokai)
+<img align="center" style="margin-top: 2%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rudradcruze&theme=monokai" alt="rudradcruze" style="width:100%;" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rudradcruze&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<div style="display: flex; flex-direction: row; align-items: center; margin-top: 2%">
+  <img src="https://github-contributor-stats.vercel.app/api?username=rudradcruze&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="rudradcruze" style="width: 50%; height: 70%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudradcruze&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="rudradcruze" style="width: 50%; height: 100%;" />
+</div>
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=rudradcruze&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=rudradcruze" alt="rudradcruze" /></p>
 
 ## ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center"><img style="width:100%; height: 100%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="rudradcruze" /></p>
 
-## 🔝 Top Contributed Repo
+<div align="center">
+    <img height="120" alt="Thanks for visiting me" width="100%" src="thankyou.svg" />
+    <br />
+</div>
 
-![](https://github-contributor-stats.vercel.app/api?username=rudradcruze&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h2 align='center'>⚡️HAPPY CODING⚡️</h2>
 
----
-
-[![](https://visitcount.itsvg.in/api?id=rudradcruze&icon=3&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+    <img style="width: 100%; height: auto" alt="...." src="wave.svg" />
+    <br />
+</div>
