@@ -1,7 +1,7 @@
 <div align="center">
-<img src="./banner.gif" alt="Welcome Francis Rudra D Cruze | Programmer" style="height: auto; width: 100%; margin: 0; padding: 0; text-align-center"/>
-<img style="width: 100%; height: auto; margin: -7px; padding: 0;" alt="...." src="wave_up.svg" />
-<br />
+  <img src="./banner.gif" alt="Welcome Francis Rudra D Cruze | Programmer" style="height: auto; width: 100%; margin: 0; padding: 0; text-align-center"/>
+  <img style="width: 100%; height: auto; padding: 0;" alt="...." src="wave_up.svg" />
+  <br />
 </div>
 
 <div align="center">
