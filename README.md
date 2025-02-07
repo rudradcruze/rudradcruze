@@ -89,11 +89,11 @@ Part-Time Research Assistant in Medical Image Processing and Machine Learning an
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rudradcruze&show_icons=true&theme=gotham" alt="rudradcruze" style="width:100%;" />
 
-<img align="center" style="margin-top: 2%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rudradcruze&theme=monokai" alt="rudradcruze" style="width:100%;" />
+<img align="center" style="margin-top: 2%; width:100%; max-width: 100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rudradcruze&theme=monokai" alt="rudradcruze" />
 
 <div style="display: flex; flex-direction: row; align-items: center; margin-top: 2%">
-  <img src="https://github-contributor-stats.vercel.app/api?username=rudradcruze&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="rudradcruze" style="width: 50%; height: 70%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudradcruze&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="rudradcruze" style="width: 50%; height: 100%;" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=rudradcruze&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="rudradcruze" style="width: 49%; height: 70%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudradcruze&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="rudradcruze" style="width: 49%; height: 100%;" />
 </div>
 
 ## 🏆 GitHub Trophies
@@ -102,7 +102,7 @@ Part-Time Research Assistant in Medical Image Processing and Machine Learning an
 
 ## ✍️ Random Dev Quote
 
-<p align="center"><img style="width:100%; height: 100%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="rudradcruze" /></p>
+<p align="center"><img style="width: auto; height: 200" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="rudradcruze" /></p>
 
 <div align="center">
     <img height="120" alt="Thanks for visiting me" width="100%" src="thankyou.svg" />
