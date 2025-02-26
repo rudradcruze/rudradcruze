@@ -2,7 +2,10 @@
   <img src="./banner.gif" alt="Welcome Francis Rudra D Cruze | Programmer" style="height: auto; width: 100%; margin: 0; padding: 0; text-align-center"/>
 </div>
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=F7F23D&center=true&vCenter=true&width=435&lines=AI+Software+Engineer;Researcher+%2F+Programmer;A+Quick+Learner" alt="Researcher / Programmer" /></p>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=24&duration=4000&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=AI+Software+Engineer;Quick+Learner;From+Research+to+Production" alt="Typing SVG" /></a>
+</p>
+
 
 <div align="center">
   <h3><b>👀 Profile Visitor Count 👀</b></h3>
@@ -10,7 +13,7 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/rudradcruze/count.svg" /></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rudradcruze&label=Profile%20views&color=0e75b6&style=flat" alt="rudradcruze" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rudradcruze&label=Visitors&color=00f700&style=flat" alt="rudradcruze" /> </p>
 
 # 💫 About Me
 
@@ -19,6 +22,29 @@ Part-Time Research Assistant in Medical Image Processing and Machine Learning an
 # 🌐 Socials
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rudradcruze) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rudradcruze) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rudradcruze) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@rudradcruze) [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:francisrudra@gmail.com)
+
+# 🚀 Expertise Matrix
+
+<div align="center">
+
+| **AI/ML**             | **IoT**               | **Research**           | **Development**       |
+|-----------------------|-----------------------|------------------------|-----------------------|
+| • Computer Vision     | • Embedded Systems    | • Medical Imaging      | • Full-stack Apps     |
+| • Deep Learning       | • Sensor Networks     | • Bioinformatics       | • Cloud Solutions     |
+| • Neural Networks     | • Edge Computing      | • Algorithm Design     | • Mobile Development  |
+| • NLP                 | • Smart Agriculture   | • Data Analysis        | • API Integration     |
+
+</div>
+
+# 🏆 Achievements
+
+-   🥇 People's Choice Award: 3MT (3-minute thesis) competition organized by Daffodil International University
+
+# Publication
+
+[1] Cruze, F. R. D., Hosen, M. F., Ali, M. S., Mollah, M. S. H., Uddin, M. S., & Morshed, M. (2024, October). Unveiling Fake News with an Attention-Based CNN Model Using Hybrid Features. In 2024 2nd International Conference on Information and Communication Technology (ICICT) (pp. 41-45). IEEE.
+
+Link: (https://www.researchgate.net/publication/388257519_Unveiling_Fake_News_with_an_Attention-Based_CNN_Model_Using_Hybrid_Features)
 
 # 💻 Tech Stack
 
