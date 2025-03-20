@@ -2,7 +2,7 @@
   <img src="./banner.gif" alt="Welcome Francis Rudra D Cruze | Programmer" width="100%"/>
 
   <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=AI+Software+Engineer;Quick+Learner;From+Research+to+Production" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=FFB433&center=true&vCenter=true&width=600&lines=AI+Software+Engineer;Quick+Learner;From+Research+to+Production" alt="Typing SVG" /></a>
   </p>
 
   <p align="center">
@@ -180,7 +180,7 @@ With a deep background in software engineering, I develop scalable AI-driven pla
     <img src="https://github-readme-stats.vercel.app/api?username=rudradcruze&show_icons=true&theme=graywhite&hide_border=true&count_private=true" alt="Francis's GitHub stats" width="48%" />
   </a>
   <a href="https://github.com/rudradcruze">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudradcruze&theme=graywhite&hide_border=true&stroke=000000" alt="Francis's streak" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudradcruze&theme=tokyonight&theme=icegray&border_radius=8" alt="Francis's streak" width="48%" />
   </a>
 </div>
 
@@ -194,7 +194,7 @@ With a deep background in software engineering, I develop scalable AI-driven pla
 </div>
 
 <div align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudradcruze&bg_color=ffffff&color=000000&line=000000&point=111111&area=true&hide_border=true" alt="Contribution Graph" width="98%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudradcruze&bg_color=ffffff&color=000000&line=FFB433&point=FF9D23&area=true&hide_border=true&hide_title=true" alt="Contribution Graph" width="97%"/>
 </div>
 
 <div align="center">

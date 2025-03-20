@@ -2,13 +2,13 @@
   <img src="./banner.gif" alt="Welcome Francis Rudra D Cruze | Programmer" width="100%"/>
 
   <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=AI+Software+Engineer;Quick+Learner;From+Research+to+Production" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=FFB433&center=true&vCenter=true&width=600&lines=AI+Software+Engineer;Quick+Learner;From+Research+to+Production" alt="Typing SVG" /></a>
   </p>
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=rudradcruze&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="rudradcruze" />
+    <img src="https://komarev.com/ghpvc/?username=rudradcruze&label=Profile%20Views&color=000000&style=for-the-badge" alt="rudradcruze" />
     <a href="https://github.com/rudradcruze?tab=followers">
-      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/rudradcruze?color=8A2BE2&labelColor=6F00FF&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/rudradcruze?color=000000&labelColor=333333&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
     </a>
   </p>
 </div>
@@ -41,19 +41,19 @@ With a deep background in software engineering, I develop scalable AI-driven pla
 
 <p align="center">
   <a href="https://facebook.com/rudradcruze" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/Facebook-%23000000.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://instagram.com/rudradcruze" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-%23000000.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://linkedin.com/in/rudradcruze" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://youtube.com/@rudradcruze" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>
+    <img src="https://img.shields.io/badge/YouTube-%23000000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>
   </a>
   <a href="mailto:francisrudra@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-%23000000.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
@@ -104,7 +104,7 @@ With a deep background in software engineering, I develop scalable AI-driven pla
   <table>
     <tr>
       <td rowspan="2" align="center" width="50">
-        <img width="100" src="https://img.shields.io/badge/1-blue?style=for-the-badge" alt="Research"/>
+        <img width="100" src="https://img.shields.io/badge/1-black?style=for-the-badge" alt="Research"/>
       </td>
       <td>
         Cruze, F. R. D., Hosen, M. F., Ali, M. S., Mollah, M. S. H., Uddin, M. S., & Morshed, M. (2024, October). <strong>Unveiling Fake News with an Attention-Based CNN Model Using Hybrid Features</strong>. In 2024 2nd International Conference on Information and Communication Technology (ICICT) (pp. 41-45). IEEE.
@@ -113,7 +113,7 @@ With a deep background in software engineering, I develop scalable AI-driven pla
     <tr>
       <td align="left">
         <a href="https://www.researchgate.net/publication/388257519_Unveiling_Fake_News_with_an_Attention-Based_CNN_Model_Using_Hybrid_Features" target="_blank">
-          <img src="https://img.shields.io/badge/Read_Paper-ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/>
+          <img src="https://img.shields.io/badge/Read_Paper-ResearchGate-000000?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/>
         </a>
       </td>
     </tr>
@@ -190,7 +190,7 @@ With a deep background in software engineering, I develop scalable AI-driven pla
 
 <div align="center">
   <a href="https://github.com/rudradcruze">
-    <img src="https://github-readme-stats.vercel.app/api?username=rudradcruze&show_icons=true&theme=radical&bg_color=141321&text_color=ff64da&icon_color=a9fef7&title_color=fe428e&hide_border=true&count_private=true" alt="Francis's GitHub stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rudradcruze&show_icons=true&theme=graywhite&hide_border=true&count_private=true" alt="Francis's GitHub stats" width="48%" />
   </a>
   <a href="https://github.com/rudradcruze">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudradcruze&theme=tokyonight&theme=icegray&border_radius=8" alt="Francis's streak" width="48%" />
@@ -199,15 +199,15 @@ With a deep background in software engineering, I develop scalable AI-driven pla
 
 <div align="center">
   <a href="https://github.com/rudradcruze">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudradcruze&theme=radical&bg_color=141321&text_color=ff64da&title_color=fe428e&hide_border=true&layout=compact" alt="Top Languages" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudradcruze&theme=graywhite&hide_border=true&layout=compact" alt="Top Languages" width="48%" />
   </a>
   <a href="https://github.com/rudradcruze">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rudradcruze&theme=radical" alt="Profile Details" width="48%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rudradcruze&theme=github" alt="Profile Details" width="48%" />
   </a>
 </div>
 
 <div align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudradcruze&bg_color=141321&color=ff64da&line=a9fef7&point=fe428e&area=true&hide_border=true" alt="Contribution Graph" width="98%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudradcruze&bg_color=ffffff&color=000000&line=FFB433&point=FF9D23&area=true&hide_border=true&hide_title=true" alt="Contribution Graph" width="97%"/>
 </div>
 
 <!-- Animated Divider -->
@@ -218,7 +218,7 @@ With a deep background in software engineering, I develop scalable AI-driven pla
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rudradcruze&theme=radical&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rudradcruze&theme=light&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=5" alt="GitHub Trophies"/>
 </div>
 
 <picture>
