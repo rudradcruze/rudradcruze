@@ -193,7 +193,8 @@ With a deep background in software engineering, I develop scalable AI-driven pla
     <img src="https://github-readme-stats.vercel.app/api?username=rudradcruze&show_icons=true&theme=graywhite&hide_border=true&count_private=true" alt="Francis's GitHub stats" width="48%" />
   </a>
   <a href="https://github.com/rudradcruze">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=rudradcruze" alt="Francis's streak" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudradcruze&theme=graywhite&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&hide_border=true" alt="Francis's streak" width="48%" />
+<!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudradcruze&theme=radical&background=141321&ring=fe428e&fire=ff64da&currStreakLabel=a9fef7&sideLabels=ff64da&hide_border=true" alt="Francis's streak" width="48%" /> -->
   </a>
 </div>
 
