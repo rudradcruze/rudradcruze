@@ -156,7 +156,7 @@ With a deep background in software engineering, I develop scalable AI-driven pla
           2
         </td>
         <td>
-          <strong>F. R. D. Cruze</strong>, A. Khatun, M. F. Hosen, M. S. H. Mollah, M. N. Kader and M. S. Uddin, "Leveraging Machine Learning to Uncover Molecular Pathways and Candidate Drugs in Ovarian Cancer and Polycystic Ovary Syndrome," 2025 International Conference on Electrical, Computer and Communication Engineering (ECCE), Chittagong, Bangladesh, 2025, pp. 1-6, doi: 10.1109/ECCE64574.2025.11013839.
+          J. Wasima, M. F. Hosen, <strong>F. R. D. Cruze</strong>, M. N. Kader, M. S. H. Mollah and M. S. Uddin, "Integrated Bioinformatics and Machine Learning Analysis Uncovers Key Pathways and Therapeutic Targets for Hypertension and Chronic Kidney Disease," 2024 27th International Conference on Computer and Information Technology (ICCIT), Cox's Bazar, Bangladesh, 2024, pp. 2192-2196, doi: 10.1109/ICCIT64611.2024.11021863.
         </td>
         <td rowspan="2" align="center">
           2025
@@ -164,7 +164,25 @@ With a deep background in software engineering, I develop scalable AI-driven pla
       </tr>
       <tr>
         <td align="left">
-          <a href="https://ieeexplore.ieee.org/document/10839654/" target="_blank">
+          <a href="https://ieeexplore.ieee.org/document/11021863" target="_blank">
+            <img src="https://img.shields.io/badge/Read_Paper-IEE-000000?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/>
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td rowspan="2" align="center">
+          3
+        </td>
+        <td>
+          <strong>F. R. D. Cruze</strong>, M. F. Hosen, M. S. Ali, M. S. Hossain Mollah, M. S. Uddin and M. Morshed, "Unveiling Fake News with an Attention-Based CNN Model Using Hybrid Features," 2024 2nd International Conference on Information and Communication Technology (ICICT), Dhaka, Bangladesh, 2024, pp. 41-45, doi: 10.1109/ICICT64387.2024.10839654.
+        </td>
+        <td rowspan="2" align="center">
+          2024
+        </td>
+      </tr>
+      <tr>
+        <td align="left">
+          <a href="https://ieeexplore.ieee.org/document/10839654" target="_blank">
             <img src="https://img.shields.io/badge/Read_Paper-IEEE-000000?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/>
           </a>
         </td>
