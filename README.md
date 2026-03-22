@@ -23,14 +23,29 @@ Currently, I am working as an **AI Software Engineer at DIU AI Research Lab**, w
 
 With a deep background in software engineering, I develop scalable AI-driven platforms using FastAPI, PyTorch, and React, optimizing AI inference pipelines, real-time data processing, and cloud-based AI systems. My work integrates computer vision, medical AI, and feature engineering to improve model interpretability and efficiency.
 
-<div align="center">
+<!-- <div align="center">
   <h3>🔥 Key Areas of Expertise 🔥</h3>
-</div>
+</div> -->
 
-| <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW4yM3R1dGQ2d2FsdjgwOXdpcTFwODg2ZDhqcHR5Y2QyaW1semYycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="20px"> **Medical AI & Bioinformatics**       | AI for oncology research, whole-slide image (WSI) processing, and AI-assisted diagnostics. |
+<!-- | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW4yM3R1dGQ2d2FsdjgwOXdpcTFwODg2ZDhqcHR5Y2QyaW1semYycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="20px"> **Medical AI & Bioinformatics**       | AI for oncology research, whole-slide image (WSI) processing, and AI-assisted diagnostics. |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGNsZXA4MnVib2pxbnZmcnM2dDNjYWlweGl1bDB4cWFreWlucHA3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fuJPZBIIqzbt1kAYVc/giphy.gif" width="20px"> **Software Development & AI Systems** | Architecting scalable AI software solutions with FastAPI, React, and cloud services.       |
-| <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXRiNTd0MXFtN3QwZTI3YmlsanJuNnh1ajNrNXhiaXl1dXg2cHJrcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JqmupuTVZYaQX5s094/giphy.gif" width="20px"> **AI & IoT Integration**              | Developing AI-powered IoT systems for smart automation and real-time analytics.            |
+| <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXRiNTd0MXFtN3QwZTI3YmlsanJuNnh1ajNrNXhiaXl1dXg2cHJrcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JqmupuTVZYaQX5s094/giphy.gif" width="20px"> **AI & IoT Integration**              | Developing AI-powered IoT systems for smart automation and real-time analytics.            | -->
+
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<!-- START My Github Profile Trophy SECTION -->
+<p align="center">
+<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px">
+<h2 align="center">My Github Profile Trophy</h2>
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=rudradcruze&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+<!-- END My Github Profile Trophy SECTION -->
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -58,18 +73,18 @@ With a deep background in software engineering, I develop scalable AI-driven pla
 </p>
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> -->
 
-<div align="center">
+<!-- <div align="center">
   <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW00ZXUxbjF2dDUyOWdpM2cwMGJ0bnFtOWo0dzhpenQwaGp3a3ZucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30px"/> Expertise Matrix <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW00ZXUxbjF2dDUyOWdpM2cwMGJ0bnFtOWo0dzhpenQwaGp3a3ZucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30px"/></h2>
-</div>
+</div> -->
 
-|  **🤖 AI/ML**   |    **🔌 IoT**     | **🔬 Research**  | **💻 Development** |
+<!-- |  **🤖 AI/ML**   |    **🔌 IoT**     | **🔬 Research**  | **💻 Development** |
 | :-------------: | :---------------: | :--------------: | :----------------: |
 | Computer Vision | Embedded Systems  | Medical Imaging  |  Full-stack Apps   |
 |  Deep Learning  |  Sensor Networks  |  Bioinformatics  |  Cloud Solutions   |
 | Neural Networks |  Edge Computing   | Algorithm Design | Mobile Development |
-|       NLP       | Smart Agriculture |  Data Analysis   |  API Integration   |
+|       NLP       | Smart Agriculture |  Data Analysis   |  API Integration   | -->
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -116,12 +131,52 @@ With a deep background in software engineering, I develop scalable AI-driven pla
   </table>
 </div>
 
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 <div align="center">
   <h2><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3BhenJsdWkybHc2bXQ1OGx0eHRhOW9vZDJicmlkMGVlaG9wbjN1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MasfNVDb2lkeB44QIC/giphy.gif" width="25px"/> Publications <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3BhenJsdWkybHc2bXQ1OGx0eHRhOW9vZDJicmlkMGVlaG9wbjN1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MasfNVDb2lkeB44QIC/giphy.gif" width="25px"/></h2>
 </div>
 
 <div align="center">
-  <h3>Conference</h3>
+  <h3>Journals</h3>
+</div>
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th width="50">#</th>
+        <th>Paper</th>
+        <th width="50">Year</th>
+    </thead>
+    <tbody>
+      <tr>
+        <td rowspan="2" align="center">
+          1
+        </td>
+        <td>
+          <strong>Cruze, F. R. D.</strong>, Wasima, J., Hosen, M. F., Miah, M. B. A., Muhammad, Z., & Masud, M. F. A. (2026). Oral Cancer Diagnosis Using Histopathology Images: An Explainable Hybrid Transformer Framework. Technologies, 14(1), 39.
+        </td>
+        <td rowspan="2" align="center">
+          2026
+        </td>
+      </tr>
+      <tr>
+        <td align="left">
+          <a href="https://www.mdpi.com/2227-7080/14/1/39" target="_blank">
+            <img src="https://img.shields.io/badge/Read_Paper-MDPI_Q1-000000?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/>
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
+<div align="center">
+  <h3>Conferences</h3>
 </div>
 
 <div align="center">
@@ -147,7 +202,7 @@ With a deep background in software engineering, I develop scalable AI-driven pla
       <tr>
         <td align="left">
           <a href="https://ieeexplore.ieee.org/document/11013839" target="_blank">
-            <img src="https://img.shields.io/badge/Read_Paper-IEE-000000?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/>
+            <img src="https://img.shields.io/badge/Read_Paper-IEEE-000000?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/>
           </a>
         </td>
       </tr>
@@ -165,7 +220,7 @@ With a deep background in software engineering, I develop scalable AI-driven pla
       <tr>
         <td align="left">
           <a href="https://ieeexplore.ieee.org/document/11021863" target="_blank">
-            <img src="https://img.shields.io/badge/Read_Paper-IEE-000000?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/>
+            <img src="https://img.shields.io/badge/Read_Paper-IEEE-000000?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/>
           </a>
         </td>
       </tr>
@@ -190,6 +245,22 @@ With a deep background in software engineering, I develop scalable AI-driven pla
     </tbody>
   </table>
 </div>
+
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<!-- START Github Stats -->
+<p align="center">
+ <h2 align="center">My Github Stats</h2>
+<div align="center">
+  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=rudradcruze&count_private=true&theme=radical&border_radius=10" alt="streak stats"/>
+</div>
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats-steel-theta-71.vercel.app/api?username=rudradcruze&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&hide=issues,contribs,stars&bg_color=00000000&show=prs_merged,prs_merged_percentage">
+  <img height="50%" width="auto" src ="https://github-readme-stats-steel-theta-71.vercel.app/api/top-langs/?username=rudradcruze&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6">
+<!-- End Github Stats -->
+
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -287,42 +358,20 @@ With a deep background in software engineering, I develop scalable AI-driven pla
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
-  <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnZsdDVxMHc0YnM0c3l2ZG01c3FjbDl4MW9qYXcweWZuajZiZGFvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cj87CxfRtrUAfLkgvs/giphy.gif" width="30px"/> GitHub Stats</h2>
+  <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnZsdDVxMHc0YnM0c3l2ZG01c3FjbDl4MW9qYXcweWZuajZiZGFvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cj87CxfRtrUAfLkgvs/giphy.gif" width="30px"/> Contribution Graph <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnZsdDVxMHc0YnM0c3l2ZG01c3FjbDl4MW9qYXcweWZuajZiZGFvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cj87CxfRtrUAfLkgvs/giphy.gif" width="30px"/></h2>
 </div>
 
-<div align="center">
+
   <a href="https://github.com/rudradcruze">
-    <img src="https://github-readme-stats.vercel.app/api?username=rudradcruze&show_icons=true&theme=graywhite&hide_border=true&count_private=true" alt="Francis's GitHub stats" width="48%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rudradcruze&theme=gotham" align="center" />
   </a>
   <a href="https://github.com/rudradcruze">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudradcruze&theme=graywhite&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&hide_border=true" alt="Francis's streak" width="48%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudradcruze&theme=gotham&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
 <!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudradcruze&theme=radical&background=141321&ring=fe428e&fire=ff64da&currStreakLabel=a9fef7&sideLabels=ff64da&hide_border=true" alt="Francis's streak" width="48%" /> -->
   </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/rudradcruze">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudradcruze&theme=graywhite&hide_border=true&layout=compact" alt="Top Languages" width="48%" />
-  </a>
-  <a href="https://github.com/rudradcruze">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rudradcruze&theme=github" alt="Profile Details" width="48%" />
-  </a>
-</div>
-
-<div align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudradcruze&bg_color=ffffff&color=000000&line=FFB433&point=FF9D23&area=true&hide_border=true&hide_title=true" alt="Contribution Graph" width="97%"/>
-</div>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<div align="center">
-  <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHoyMHRkcXJ2N2huNzRoZXdneDYxMmkzOHdnbm9rbWQ2Y2NydHp4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IoP0PvbbQheGfucU0E/giphy.gif" width="30px"/> GitHub Trophies</h2>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rudradcruze&theme=light&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=5" alt="GitHub Trophies"/>
-</div>
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rudradcruze/rudradcruze/output/github-contribution-grid-snake-dark.svg">
