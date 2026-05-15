@@ -17,11 +17,19 @@
   <h2>💫 About Me 💫</h2>
 </div>
 
-I specialize in **AI-driven software development**, **deep learning**, and **medical image processing**, with a strong focus on explainable AI (XAI), feature selection, and scalable AI architectures. My expertise extends to bioinformatics, AI-powered IoT systems, and intelligent automation, where I build high-performance AI applications for real-world challenges.
+I build **real, production-grade AI systems** that people actually use not brittle prototypes or simple chat wrappers.
 
-Currently, I am working as an **AI Software Engineer at DIU AI Research Lab**, where I develop AI-powered solutions, manage research-driven projects, and optimize AI systems for scalability and efficiency. Additionally, I serve as a **Research Assistant at the Centre for Advanced Machine Learning and Applications (CAMLAs)**, contributing to cutting-edge research in medical AI, computational biology, and feature selection techniques.
+With **2+ years of hands-on experience shipping backend and agentic AI systems**, I design architectures that interface with real-world edge devices, handle real-time data, and scale reliably. My work spans **multi-agent systems**, **Retrieval-Augmented Generation (RAG)**, **large language models (LLM)**, and **production ML deployments**.
 
-With a deep background in software engineering, I develop scalable AI-driven platforms using FastAPI, PyTorch, and React, optimizing AI inference pipelines, real-time data processing, and cloud-based AI systems. My work integrates computer vision, medical AI, and feature engineering to improve model interpretability and efficiency.
+On the research side, I have published several journal papers and conference papers accepted across IEEE and international venues spanning medical image analysis, computational bioinformatics, and explainable AI. My work covers oral cancer diagnosis via hybrid transformers, flood detection using attention networks, Alzheimer's classification from MRI, and molecular pathway identification in cardiovascular and kidney disease. Three additional manuscripts are currently under review in Q1 journals (PeerJ, PLOS ONE, Scientific Reports).
+
+I am not just a researcher who codes, or an engineer who reads papers **I sit at the intersection of both**, which means the systems I build are grounded in methodology and built to survive production.
+
+Currently a **Research Assistant, and an MS student in Data Science**. **IEEE Member**. **People's Choice Award - 3MT Competition 2025**.
+
+Focused on **next-generation agentic workflows** that go far beyond conversational AI. **Open to full-time roles in AI Engineering, MLOps, or Agentic Systems**
+
+**Let's talk if you ship serious AI.**
 
 <!-- <div align="center">
   <h3>🔥 Key Areas of Expertise 🔥</h3>
@@ -32,18 +40,14 @@ With a deep background in software engineering, I develop scalable AI-driven pla
 | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGNsZXA4MnVib2pxbnZmcnM2dDNjYWlweGl1bDB4cWFreWlucHA3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fuJPZBIIqzbt1kAYVc/giphy.gif" width="20px"> **Software Development & AI Systems** | Architecting scalable AI software solutions with FastAPI, React, and cloud services.       |
 | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXRiNTd0MXFtN3QwZTI3YmlsanJuNnh1ajNrNXhiaXl1dXg2cHJrcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JqmupuTVZYaQX5s094/giphy.gif" width="20px"> **AI & IoT Integration**              | Developing AI-powered IoT systems for smart automation and real-time analytics.            | -->
 
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 <!-- START My Github Profile Trophy SECTION -->
-<p align="center">
+<!-- <p align="center">
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px">
 <h2 align="center">My Github Profile Trophy</h2>
 </p>
 <p align="center">
   <img src="https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=rudradcruze&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
-</p>
+</p> -->
 
 <!-- END My Github Profile Trophy SECTION -->
 
@@ -55,6 +59,9 @@ With a deep background in software engineering, I develop scalable AI-driven pla
 </div>
 
 <p align="center">
+  <a href="https://francisrudra.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=globe&logoColor=white" alt="Website"/>
+  </a>
   <a href="https://facebook.com/rudradcruze" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%23000000.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
   </a>
@@ -131,7 +138,6 @@ With a deep background in software engineering, I develop scalable AI-driven pla
   </table>
 </div>
 
-
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -169,11 +175,28 @@ With a deep background in software engineering, I develop scalable AI-driven pla
             <img src="https://img.shields.io/badge/Read_Paper-MDPI_Q1-000000?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/>
           </a>
         </td>
+      <tr>
+        <td rowspan="2" align="center">
+          1
+        </td>
+        <td>
+          Khatun, M.M., <strong>Cruze, F.R.D.</strong>, Khatun, M.A., Hosen, M.F., Uddin, M.S. and Morshed, M., 2026. XAI-AttBiLSTM: an explainable two-stage feature selection framework with Attention-based BiLSTM for gynecological cancer risk module identification. Network Modeling Analysis in Health Informatics and Bioinformatics, 15(1), p.112.
+        </td>
+        <td rowspan="2" align="center">
+          2026
+        </td>
+      </tr>
+      <tr>
+        <td align="left">
+          <a href="https://link.springer.com/article/10.1007/s13721-026-00739-x" target="_blank">
+            <img src="https://img.shields.io/badge/Read_Paper-Springer_Q1-000000?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/>
+          </a>
+        </td>
+      </tr>
       </tr>
     </tbody>
   </table>
 </div>
-
 
 <div align="center">
   <h3>Conferences</h3>
@@ -246,7 +269,6 @@ With a deep background in software engineering, I develop scalable AI-driven pla
   </table>
 </div>
 
-
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -260,7 +282,6 @@ With a deep background in software engineering, I develop scalable AI-driven pla
   <img height="50%" width="auto" src ="https://github-readme-stats-steel-theta-71.vercel.app/api?username=rudradcruze&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&hide=issues,contribs,stars&bg_color=00000000&show=prs_merged,prs_merged_percentage">
   <img height="50%" width="auto" src ="https://github-readme-stats-steel-theta-71.vercel.app/api/top-langs/?username=rudradcruze&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6">
 <!-- End Github Stats -->
-
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -361,7 +382,6 @@ With a deep background in software engineering, I develop scalable AI-driven pla
   <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnZsdDVxMHc0YnM0c3l2ZG01c3FjbDl4MW9qYXcweWZuajZiZGFvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cj87CxfRtrUAfLkgvs/giphy.gif" width="30px"/> Contribution Graph <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnZsdDVxMHc0YnM0c3l2ZG01c3FjbDl4MW9qYXcweWZuajZiZGFvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cj87CxfRtrUAfLkgvs/giphy.gif" width="30px"/></h2>
 </div>
 
-
   <a href="https://github.com/rudradcruze">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rudradcruze&theme=gotham" align="center" />
   </a>
@@ -369,15 +389,6 @@ With a deep background in software engineering, I develop scalable AI-driven pla
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudradcruze&theme=gotham&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
 <!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudradcruze&theme=radical&background=141321&ring=fe428e&fire=ff64da&currStreakLabel=a9fef7&sideLabels=ff64da&hide_border=true" alt="Francis's streak" width="48%" /> -->
   </a>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rudradcruze/rudradcruze/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rudradcruze/rudradcruze/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rudradcruze/rudradcruze/output/github-contribution-grid-snake.svg">
-</picture>
 
 <!-- Animated Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,25&height=150&section=footer&text=Thank%20You%20For%20Visiting&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=65" />
